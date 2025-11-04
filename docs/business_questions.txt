@@ -1,1 +1,10 @@
-Business Questions 
+Business Questions for Retail Sales Analytics Dashboard: 
+ 
+1. Which city generates the most sales? 
+2. Which product line is most profitable? 
+3. What is the sales trend over time? 
+4. What payment methods are most used? 
+5. Which branch has the highest customer rating? 
+6. Which customer type contributes the most to sales revenue? 
+7. How does sales performance vary by gender? 
+8. What is the correlation between quantity sold and gross income? 
