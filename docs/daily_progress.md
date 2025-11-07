@@ -1,8 +1,8 @@
-\# 🗓 Retail Sales Analytics Dashboard – Daily Progress Log
+## 🗓 Retail Sales Analytics Dashboard – Daily Progress Log
 
 
 
-\## \*\*Day 1 – Project Setup\*\*
+## \*\*Day 1 – Project Setup\*\*
 
 \- Created project folder structure (`data`, `scripts`, `notebooks`, `dashboard`, `report`, `docs`)
 
@@ -24,7 +24,7 @@
 
 
 
-\## \*\*Day 2 – Data Familiarization\*\*
+## \*\*Day 2 – Data Familiarization\*\*
 
 \- Added raw dataset (SuperMarket Analysis.xlsx) to `/data/raw/`
 
@@ -44,7 +44,7 @@
 
 
 
-\## \*\*Day 3 – Business Understanding\*\*
+## \*\*Day 3 – Business Understanding\*\*
 
 \- Defined 8 core business questions for analysis
 
@@ -62,7 +62,7 @@
 
 
 
-\## \*\*Day 4 – Data Understanding\*\*
+## \*\*Day 4 – Data Understanding\*\*
 
 \- Opened dataset and reviewed columns
 
@@ -82,7 +82,7 @@
 
 
 
-\## \*\*Day 5 – Data Cleaning \& Preparation\*\*
+## \*\*Day 5 – Data Cleaning \& Preparation\*\*
 
 \- Loaded dataset in Jupyter Notebook using Pandas
 
