@@ -104,3 +104,39 @@
 
 
 
+---
+
+## 🗓️ Day 6 – Exploratory Data Analysis (EDA)
+
+### 📊 Tasks Completed
+- Loaded cleaned dataset successfully from `/data/cleaned/supermarket_sales_cleaned.xlsx`
+- Verified column types and checked for duplicates and missing values
+- Created exploratory visualizations:
+  - Total Sales by City (`sales_by_city.png`)
+  - Sales by Product Line (`sales_by_product_line.png`)
+  - Monthly Sales Trend (`monthly_trend.png`)
+  - Payment Method Distribution (`payment_share.png`)
+  - Correlation Heatmap (`corr_matrix.png`)
+- Generated summary tables:
+  - `data/processed/sales_by_city.csv`
+  - `data/processed/monthly_sales.csv`
+- Wrote insights summary → `docs/eda_summary_day6.md`
+
+### 📈 Key Findings
+- **Total Sales:** ₹322,966.75  
+- **Transactions:** 1,000  
+- **Average Sale Value:** ₹322.97  
+- **Top City:** Yangon  
+- **Top Product Line:** Fashion Accessories  
+- **Most Used Payment:** E-wallet  
+
+### 📁 Deliverables
+- `/notebooks/eda_day6.ipynb`
+- `/data/processed/*.csv`
+- `/notebooks/figures/*.png`
+- `/docs/eda_summary_day6.md`
+
+---
+
+
+
