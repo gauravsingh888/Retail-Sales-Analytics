@@ -143,5 +143,21 @@
 
 ---
 
+---
+
+## 🗓️ Day 7 – Sales Overview & Product Line Analysis
+
+### ✅ Tasks Completed
+- Calculated KPIs: Total Sales, Average Sales, Number of Invoices  
+- Analyzed sales distribution across product lines  
+- Created bar chart for Sales by Product Line  
+- Saved processed table and visualization outputs  
+
+### 📁 Deliverables
+- `/data/processed/sales_by_product_line.csv`
+- `/notebooks/figures/sales_by_product_line.png`
+- `/docs/eda_summary_day7.md`
+
+
 
 
